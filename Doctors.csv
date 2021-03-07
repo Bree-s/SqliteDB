@@ -1,0 +1,4 @@
+Doctor_Id,Doctor_Name,Hospital_Id,Date_Joined,Specialty,Salary,Experience
+101,DoctorA,2002,10/10/2005,Pedeatrics,200000,8
+102,DoctorB,3003,5/5/2010,Surgery,300000,10
+103,DoctorC,4004,8/8/2015,Optometrics,180000,5
